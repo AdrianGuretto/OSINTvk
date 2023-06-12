@@ -1,5 +1,5 @@
 # OSINTvk
-OSINT tool for a popular Russian social media: vk.com. The application enables users to gather OPENLY AVAILABLE data with a great speed and efficiency. The project is made for ***educational*** purposes only. Nor the author or contributors carry any responsibility for the use of this tool.
+OSINT tool for a popular Russian social media: [VKontakte](https://vk.com/). The application enables users to gather OPENLY AVAILABLE data with a great speed and efficiency. The project is made for ***educational*** purposes only. Nor the author or contributors carry any responsibility for the use of this tool.
 
 ## ⚒️ App Commands
 OSINTvk application offers a wide range of commands to get an openly available information about a set target:
